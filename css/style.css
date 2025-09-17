@@ -2,8 +2,9 @@
     width: 60px;
 }
 
-.logo h1 {
-    font-family: cursive;
+h1,
+h2 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 .titleAndLogo {
